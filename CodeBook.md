@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+#CodeBook
 
 The dataset is based on the UCI HAR dataset.  It contains one row per \*-mean() and \*-std() feature for each subject and activity.
 The subject column contains the subject id, ranging in value from 1-30.
